@@ -1,4 +1,4 @@
-module github.com/mortenson/grpc-game-example
+module github.com/MustafaNova2/MatchPulse
 
 go 1.14
 

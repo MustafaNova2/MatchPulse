@@ -9,7 +9,7 @@ import (
 
 	"github.com/gdamore/tcell"
 	"github.com/google/uuid"
-	"github.com/mortenson/grpc-game-example/pkg/backend"
+	"github.com/MustafaNova2/MatchPulse/pkg/backend"
 	"github.com/rivo/tview"
 )
 

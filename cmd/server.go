@@ -8,10 +8,10 @@ import (
 	"log"
 	"net"
 
-	"github.com/mortenson/grpc-game-example/pkg/backend"
-	"github.com/mortenson/grpc-game-example/pkg/bot"
-	"github.com/mortenson/grpc-game-example/pkg/server"
-	"github.com/mortenson/grpc-game-example/proto"
+	"github.com/MustafaNova2/MatchPulse/pkg/backend"
+	"github.com/MustafaNova2/MatchPulse/pkg/bot"
+	"github.com/MustafaNova2/MatchPulse/pkg/server"
+	"github.com/MustafaNova2/MatchPulse/proto"
 
 	"google.golang.org/grpc"
 )

@@ -11,9 +11,9 @@ import (
 	termutil "github.com/andrew-d/go-termutil"
 	"github.com/google/uuid"
 
-	"github.com/mortenson/grpc-game-example/pkg/backend"
-	"github.com/mortenson/grpc-game-example/pkg/bot"
-	"github.com/mortenson/grpc-game-example/pkg/frontend"
+	"github.com/MustafaNova2/MatchPulse/pkg/backend"
+	"github.com/MustafaNova2/MatchPulse/pkg/bot"
+	"github.com/MustafaNova2/MatchPulse/pkg/frontend"
 )
 
 func main() {

@@ -7,9 +7,9 @@ import (
 
 	"github.com/golang/protobuf/ptypes"
 	"github.com/google/uuid"
-	"github.com/mortenson/grpc-game-example/pkg/backend"
-	"github.com/mortenson/grpc-game-example/pkg/frontend"
-	"github.com/mortenson/grpc-game-example/proto"
+	"github.com/MustafaNova2/MatchPulse/pkg/backend"
+	"github.com/MustafaNova2/MatchPulse/pkg/frontend"
+	"github.com/MustafaNova2/MatchPulse/proto"
 	"google.golang.org/grpc/metadata"
 )
 
