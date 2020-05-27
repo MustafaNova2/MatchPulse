@@ -43,4 +43,4 @@ go run cmd/client_local.go -bots=2
 go run cmd/bot_client.go -address=":9999"
 ```
 
-Have Fun!
+Play it...Have Fun...

@@ -1,5 +1,6 @@
 package proto
 
+
 import (
 	"log"
 	"unicode/utf8"
